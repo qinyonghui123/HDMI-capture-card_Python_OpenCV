@@ -29,4 +29,4 @@ pass
 cap0.release()
 cv2.destroyAllWindows()
 
-
+my CSDN：https://blog.csdn.net/m0_51645163/article/details/117561456?spm=1001.2014.3001.5501
